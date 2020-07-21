@@ -7,6 +7,7 @@ de la herencia, definición/uso de métodos estáticos y abstractos.
 • Implementación de un programa sencillo donde se manejen conceptos relacionados con POO.
 
 4.1 Requerimientos de inicio
+
 El main de la aplicación se encuentra en la clase Fabrica. A partir de ella se inicia la
 consola con el interfaz textual. Se necesita un identificador para acceder a la aplicación
 del tipo: C55555555. "C" en este caso identifica al usuario como cliente y el número que
@@ -29,7 +30,9 @@ B- Listar pedidos
 Indique una opción: B
 Una vez que se ejecuta la opción elegida se vuelve de forma automática al menú que
 corresponda (menú cliente, artesano, etc.).
+
 4.2 Base de datos
+
 Se ha creado una base de datos de usuarios que se inicia cuando se crea la consola
 para que no sea necesario crear un usuario de cada para poder acceder a todos los
 menús.
