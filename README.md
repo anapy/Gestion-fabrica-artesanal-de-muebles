@@ -1,4 +1,4 @@
-# Sistema-Integrado-de-Gestión-de-una-fabrica-artesanal-de-muebles
+# Sistema Integrado de Gestión de una fabrica artesanal de muebles
 
 Los objetivos que se plantean en la realización de esta práctica son los siguientes:
 • Familiarización con la Programación Orientada a Objetos (POO): definición de clases e instancias, uso
@@ -6,7 +6,7 @@ de la herencia, definición/uso de métodos estáticos y abstractos.
 • Realización del diseño orientado a objetos de un problema.
 • Implementación de un programa sencillo donde se manejen conceptos relacionados con POO.
 
-4.1 Requerimientos de inicio
+Requerimientos de inicio
 
 El main de la aplicación se encuentra en la clase Fabrica. A partir de ella se inicia la
 consola con el interfaz textual. Se necesita un identificador para acceder a la aplicación
@@ -31,7 +31,7 @@ Indique una opción: B
 Una vez que se ejecuta la opción elegida se vuelve de forma automática al menú que
 corresponda (menú cliente, artesano, etc.).
 
-4.2 Base de datos
+Base de datos
 
 Se ha creado una base de datos de usuarios que se inicia cuando se crea la consola
 para que no sea necesario crear un usuario de cada para poder acceder a todos los
